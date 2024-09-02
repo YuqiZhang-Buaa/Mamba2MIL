@@ -1,4 +1,4 @@
-#Mamba2MIL: State Space Duality Based Multiple Instance Learning for Computational Pathology
+# Mamba2MIL: State Space Duality Based Multiple Instance Learning for Computational Pathology
 
 Our submission is available on [Arxiv](https://arxiv.org/abs/2408.15032).
 
